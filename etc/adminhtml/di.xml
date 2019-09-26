@@ -15,9 +15,9 @@
                      to the HTML code used in the editor. To remove toolbar buttons, simply
                      delete one or more of the text entries shown here.-->
                 <item name="toolbar" xsi:type="string">
-                    undo redo | code | styleselect | forecolor backcolor | bold italic underline |
+                    undo redo | code | styleselect | fontsizeselect lineheightselect | forecolor backcolor | bold italic underline |
                     alignleft aligncenter alignright | numlist bullist |
-                    link image table charmap
+                    link image table charmap | magentowidget
                 </item>
 
                 <!-- How to add additional styles from your theme to the TinyMCE Formats selector -->
